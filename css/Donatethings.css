@@ -1,0 +1,159 @@
+.title_title
+{
+/* Style for "create goo" */
+width: 588px;
+height: 20px;
+color:#282828;
+font-family: Lato;
+font-size: 25px;
+font-weight: 700;
+text-transform: uppercase;
+letter-spacing: 0.24px;	
+}
+.title_title1
+{
+/* Text style for "yoU get" */
+width: 588px;
+height: 20px;
+color:#e83636;
+font-family: Lato;
+font-size: 25px;
+font-weight: 700;
+text-transform: uppercase;
+letter-spacing: 0.24px;	
+}
+.title__red
+{
+	width: 250px;
+    height: 28px;
+    color: #e83636;
+    font-family: Lato;
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 0.6px;
+}
+
+.under_title__red
+{
+	width: 560px;
+    height: 15px;
+    color: #7d7d7d;
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 22px;
+    letter-spacing: 0.32px;
+}
+
+.box_title
+{
+/* Style for "Your Email" */
+height: 13px;
+color: #282828;
+font-family: Lato;
+font-size: 18px;
+font-weight: 500;
+margin-bottom: 20px;
+/* Text style for "Y, our Ema" */
+letter-spacing: 0.36px;
+}
+
+.Donate_option
+{
+/* Style for "Stationary" */
+color: #282828;
+font-family: Lato;
+font-size: 16px;
+font-weight: 400;
+/* Text style for "Stationary" */
+letter-spacing: 0.32px;
+float:left;
+margin-left: -10px;
+margin-top:-18px
+}
+
+.item_picture
+{
+/* Style for "Items Pict" */
+width: 334px;
+height: 17px;
+color: #282828;
+font-family: Lato;
+font-size: 18px;
+font-weight: 500;
+/* Text style for "I, tems Pi" */
+letter-spacing: 0.36px;
+}
+.item_picture_img
+{
+/* Style for "Rectangle" */
+width: 577px;
+height: 230px;
+border-radius: 3px;
+border: 1px solid #c5c5c5;
+background-color: #ffffff;
+padding: 20px;
+}
+
+.item_picture_text
+{
+/* Style for "This will" */
+width: 198px;
+height: 83px;
+color: #9e9e9e;
+font-family: Lato;
+font-size: 12px;
+font-weight: 400;
+line-height: 18px;
+/* Text style for "T, his wil" */
+letter-spacing: 0.24px;
+}
+
+.under_faq
+{
+/* Style for "Should the" */
+width: 434px;
+height: 35px;
+color: #282828;
+font-family: Lato;
+font-size: 16px;
+font-weight: 700;
+/* Text style for "S, hould t" */
+letter-spacing: 0.32px;
+}
+
+.under_should
+{
+/* Style for "Yes, all d" */
+width: 490px;
+height: 99px;
+color: #7d7d7d;
+font-family: Lato;
+font-size: 16px;
+font-weight: 500;
+line-height: 22px;
+/* Text style for "Yes, all d" */
+letter-spacing: 0.32px;
+}
+
+.email
+{
+/* Style for "Email: inf" */
+height: 13px;
+color:#282828;
+font-family: Lato;
+font-size: 16px;
+font-weight: 500;
+letter-spacing: 0.32px;
+}
+.emailid
+{
+/* Text style for "E, mail:" */
+width: 170px;
+height: 13px;
+color: #e93c3c;
+font-family: Lato;
+font-size: 16px;
+font-weight: 500;
+letter-spacing: 0.32px;
+}

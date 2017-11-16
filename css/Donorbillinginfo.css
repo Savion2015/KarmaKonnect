@@ -1,0 +1,82 @@
+.title_title
+{
+/* Style for "Donor Info" */
+width: 300px;
+height: 15px;
+color: #282828;
+font-family: Lato;
+font-size: 18px;
+font-weight: 700;
+text-transform: uppercase;
+/* Text style for "Donor Info" */
+letter-spacing: 0.36px;
+}
+
+.box_title
+{
+/* Style for "Your Email" */
+height: 13px;
+color: #282828;
+font-family: Lato;
+font-size: 18px;
+font-weight: 500;
+margin-bottom: 20px;
+/* Text style for "Y, our Ema" */
+letter-spacing: 0.36px;
+padding-bottom: 30px
+}
+
+.inside_boxtext
+{
+/* Style for "India" */
+width: 38px;
+height: 13px;
+color: #282828;
+font-family: Lato;
+font-size: 18px;
+font-weight: 400;
+/* Text style for "I, ndia" */
+letter-spacing: 0.36px;
+}
+
+.under_boxtext
+{
+/* Style for "You can ch" */
+width: 409px;
+height: 12px;
+color: #9e9e9e;
+font-family: Lato;
+font-size: 12px;
+font-weight: 500;
+/* Text style for "You can ch" */
+letter-spacing: 0.24px;
+margin-left: -90px;
+}
+
+.donate_anonym
+{
+/* Style for "Donate Ano" */
+width: 250px;
+height: 16px;
+color: #282828;
+font-family: Lato;
+font-size: 18px;
+font-weight: 500;
+/* Text style for "D, onate A" */
+letter-spacing: 0.36px;
+padding-bottom: 40px;
+}
+
+.note
+{
+/* Style for "NOTE: Karm" */
+width: 756px;
+height: 31px;
+color: #282828;
+font-family: Lato;
+font-size: 14px;
+font-weight: 400;
+/* Text style for "N, OTE: Ka" */
+letter-spacing: 0.28px;
+margin-left: 20px;;
+}
